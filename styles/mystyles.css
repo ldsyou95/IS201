@@ -1,0 +1,115 @@
+body {
+    background-image: url('../images/background.jpg');
+}
+
+.header {
+    opacity: 0.9;
+}
+
+.quote {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 60px; 
+    color: rgb(97, 97, 102);
+}
+
+.img {
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 50px;
+}
+
+.video {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+iframe{
+    border-width: 0px;
+}
+
+a.youtube {
+    font-size: 13px;
+    color: hsl(0, 32%, 43%);
+    font-style: initial;    
+}
+
+a.instagram {
+    font-size: 13px;
+    color: hsl(256, 52%, 61%);
+    font-style: initial; 
+}
+
+.contact-font {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+    color: rgb(95, 91, 91);
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.contact-info {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 5px;
+}
+
+a {
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(98, 100, 105);
+    font-weight: 600;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+.abouthead {
+    font-size: 20px;
+    color: white;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.bio {
+    color: rgb(74, 76, 80);
+    font-style: normal;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.aboutmenu {
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 1.1;
+    display: block;
+    margin: 10px 0 0;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.top {
+    padding: 100px;
+    font-size: 18px;
+}
+
+.resumetitle {
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+
+.interesthead {
+    padding-top: 55px;
+    padding-bottom: 45px;
+}
